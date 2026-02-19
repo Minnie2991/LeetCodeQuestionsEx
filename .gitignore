@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Compiled files
+bin/
+*.class
+
+# IDE files
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
